@@ -1,0 +1,64 @@
+body
+{background-color:#68b0ab;
+ margin: 0;
+}
+div
+{
+ margin-top:200;
+ margin-left:25%;
+}
+h1
+{color:white;
+ font-size:150;
+font-family: 'Dancing Script', cursive;
+}
+p
+{color:white;
+ font-size:50;
+font-family: 'Pacifico', cursive;
+}
+.cloud
+{position: absolute;
+ top:-50px;
+right:300px;
+}
+.img
+{position:absolute;
+ right:80;
+ height:250;
+ width:250;
+}
+.head
+{font-size:100px;
+ color:white;
+}
+.copr
+{position:absolute;
+ right:490;
+ top:2000;
+ font-size:30px;
+font-family: 'Open Sans', sans-serif;
+}
+.left
+{position:absolute;
+ top:1650;
+}
+.stuff
+{position:absolute;
+right:600;
+top:1650;
+}
+.skimg
+{height:200;
+ width:200;
+position:absolute;
+top:1500;
+left:500;
+}
+.head2
+{color:white;
+ font-size:100;
+ position:absolute;
+top:1440;
+left:60;
+}
